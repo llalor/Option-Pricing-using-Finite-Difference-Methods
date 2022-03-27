@@ -1,0 +1,2 @@
+# Option-Pricing-using-Finite-Difference-Methods
+The purpose of this project is to analyse the pricing methods for certain options using finite difference methods. The main focus is on adopting the explicit finite difference algorithm on a vanilla and exotic option, looking at the differences between the European and American options, as well as testing for stability and checking the results at various levels discretization. The code used to perform this analysis is written as a script and as separate functions, with both methods producing the same output.
